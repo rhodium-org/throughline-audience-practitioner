@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Assume the everyday basics and common workflow, but not the underlying theory"
+text: "Take the field's day-to-day basics and common workflow as read, but do not assume the reader knows the underlying theory; explain that where it matters."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Assumed prior knowledge"
+  principle: UR-0001

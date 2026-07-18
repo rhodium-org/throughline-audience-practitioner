@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Use realistic worked examples from practice"
+text: "Anchor points in realistic scenarios and the tools and procedures the reader uses day to day."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Examples and reference points"

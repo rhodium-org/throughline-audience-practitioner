@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Use common acronyms, processes and roles freely; introduce specialist ones"
+text: "Use the field's everyday acronyms, named processes and roles without introduction, but introduce any specialist ones that go beyond routine practice."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Assumed prior knowledge"
+  principle: UR-0001

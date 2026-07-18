@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Assume working familiarity, not deep expertise"
+text: "Build on the everyday basics the reader already works with, but do not assume specialist theory."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Assumed prior knowledge"

@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Leave out theoretical depth that does not change what the reader does"
+text: "Omit theoretical depth and specialist mechanism that does not change how the reader applies the subject in practice."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Depth and detail"
+  principle: UR-0003

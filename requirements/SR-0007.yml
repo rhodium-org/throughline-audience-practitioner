@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Open with the practical situation or task, not first-principles background"
+text: "Begin with the practical situation or task the reader faces, rather than first-principles background they do not need."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Context and orientation"
+  principle: UR-0004

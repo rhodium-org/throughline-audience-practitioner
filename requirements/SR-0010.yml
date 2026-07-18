@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Relate to the common tools, procedures and cases the reader works with"
+text: "Tie points to the tools, procedures and cases the reader already works with, so they can map guidance onto their own practice."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Examples and reference points"
+  principle: UR-0005

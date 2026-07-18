@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Explain deeper specialist or theoretical terms in plainer working language"
+text: "When a deeper specialist or theoretical term is unavoidable, explain it in plainer working language the first time it appears."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Terminology and jargon"
+  principle: UR-0002

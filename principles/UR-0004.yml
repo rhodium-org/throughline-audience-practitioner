@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Orient to the task, not the fundamentals"
+text: "Open on the practical task and treat the routine context as known."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Context and orientation"

@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text is pitched for a practitioner reader"
+text: "A practitioner has working familiarity with the field but not deep specialist expertise. They know the everyday basics and common vocabulary, so the writing can build on those, but it should explain the deeper theory, give the practical depth needed to apply the subject, and orient to the task rather than the fundamentals. This axis governs how the writing is calibrated to the reader's expertise — assumed knowledge, terminology, depth and orientation — not universal readability, spelling, register or purpose, each of which is a separate source. Audience levels are mutually exclusive: a consumer composes exactly one of the expert, practitioner or general sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Audience — Practitioner reader"

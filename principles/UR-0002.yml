@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Use common terms of the trade; explain the specialist ones"
+text: "Use the field's everyday working vocabulary freely, but explain deeper specialist or theoretical terms."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Practitioner reader — Terminology and jargon"
