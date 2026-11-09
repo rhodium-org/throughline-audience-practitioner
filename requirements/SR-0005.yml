@@ -1,11 +1,13 @@
 uid: SR-0005
 type: system_requirement
-status: approved
-title: "Include the detail needed to apply the subject correctly in practice"
-text: "Include the detail a working reader needs to apply the subject correctly and avoid common mistakes."
+status: proposed
+title: Include the detail needed to apply the subject correctly in practice
+text: Include the detail a working reader needs to apply the subject correctly and
+  avoid common mistakes.
+normative: true
 links:
 - target: UR-0003
   type: implements
 attrs:
-  source_ref: "TBS Audience — Practitioner reader — Depth and detail"
+  source_ref: TBS Audience — Practitioner reader — Depth and detail
   principle: UR-0003

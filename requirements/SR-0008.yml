@@ -1,11 +1,13 @@
 uid: SR-0008
 type: system_requirement
-status: approved
-title: "Assume the routine context is known, but state anything task-specific"
-text: "Take the routine working context as known, but spell out anything specific to the task at hand that the reader needs."
+status: proposed
+title: Assume the routine context is known, but state anything task-specific
+text: Take the routine working context as known, but spell out anything specific
+  to the task at hand that the reader needs.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "TBS Audience — Practitioner reader — Context and orientation"
+  source_ref: TBS Audience — Practitioner reader — Context and orientation
   principle: UR-0004

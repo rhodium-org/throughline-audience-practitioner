@@ -1,11 +1,13 @@
 uid: SR-0009
 type: system_requirement
-status: approved
-title: "Illustrate with realistic scenarios from day-to-day practice"
-text: "Make points concrete with realistic scenarios the reader meets in day-to-day practice, rather than lay analogies or abstract theory."
+status: proposed
+title: Illustrate with realistic scenarios from day-to-day practice
+text: Make points concrete with realistic scenarios the reader meets in day-to-day
+  practice, rather than lay analogies or abstract theory.
+normative: true
 links:
 - target: UR-0005
   type: implements
 attrs:
-  source_ref: "TBS Audience — Practitioner reader — Examples and reference points"
+  source_ref: TBS Audience — Practitioner reader — Examples and reference points
   principle: UR-0005
